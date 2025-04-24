@@ -46,4 +46,4 @@
     name: infra.aap_configuration.dispatch
   vars:
     aap_configuration_async_delay: 1
-    aap_configuration_async_retries: 5
+    aap_configuration_async_retries: 0
